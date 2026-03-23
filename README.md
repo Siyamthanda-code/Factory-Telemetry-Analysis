@@ -18,6 +18,8 @@ The dataset (`daikibo-telemetry-data.json`) contains telemetry streams from 4 gl
 
 Each location operates 9 types of machines, reporting status updates every 10 minutes.
 
+**Note:** The raw JSON data file exceeds 25MB and is not included in this repository.
+
 ## Tools & Technologies
 
 -   **Tableau Desktop:** Data visualization and business intelligence.
